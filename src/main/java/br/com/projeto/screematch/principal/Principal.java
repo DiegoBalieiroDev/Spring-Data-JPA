@@ -27,7 +27,7 @@ public class Principal {
 
     // "https://www.omdbapi.com/?t=supernatural&Season=" + i + "&apikey=44e7b972"
 
-    https://github.com/DiegoBalieiroDev/Spring-Data-JPA.git
+
     public void exibeMenuPrincipal() {
         int opcao;
         do {
